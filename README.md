@@ -1,8 +1,6 @@
 <img  width="100%" src="images/main.jpg">
 <h1 align="center">Hi 👻, I'm Abrar Shakil</h1>
-<h3 align="center">Full Stack Web Developer</h3>
-
-<img align="right" alt="Coding" width="400" src="images/intro.jpg">
+<h3 align="center">Full Stack Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=webdevshakil&label=Profile%20views&color=0e75b6&style=flat" alt="webdevshakil" /> </p>
 
