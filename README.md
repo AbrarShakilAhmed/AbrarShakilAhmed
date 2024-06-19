@@ -26,9 +26,9 @@
 <p><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs?username=webdevshakil&show_icons=true&locale=en&layout=compact" alt="webdevshakil" /></p>
 
 <h3 align="left">Achievement</h3>
-<p align="center"> <img src="2.png" /> </p>
+<p align="center"> <img src="images/2.png" width="100% /> </p>
 
-<p align="center"> <img src="1.png" /> </p>
+<p align="center"> <img src="images/1.png" width="100% /> </p>
 
-<p align="center"> <img src="3.png" /> </p>
+<p align="center"> <img src="images/3.png"  width="100%" height="100%" /> </p>
 
