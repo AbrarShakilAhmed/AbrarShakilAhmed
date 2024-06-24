@@ -8,7 +8,7 @@
 
 - 🌱 I’m currently learning **Reacts , Css ,Python**
 
-- 💬 Ask me about **C , Python**
+- 💬 Ask me about **C**
 
 - 📫 How to reach me **skshakilppki123@gmail.com**
 
