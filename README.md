@@ -1,4 +1,4 @@
-<img  width="100%" src="images/main.jpg">
+<img  width="100%" src="images/main.avif">
 <h1 align="center">Hi 👻, I'm Abrar Shakil</h1>
 <h3 align="center">Full Stack Developer</h3>
 
