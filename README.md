@@ -3,10 +3,7 @@
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=webdevshakil&label=Profile%20views&color=0e75b6&style=flat" alt="webdevshakil" height="50"/> </p>
-<br>
 
-<br>
-<br>
 
 - 📱 I’m currently working with **Mern**
 
