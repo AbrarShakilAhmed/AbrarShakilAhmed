@@ -1,8 +1,8 @@
-<img  width="100%" src="images/main.avif">
+<img  width="100%" src="images/main.avif" height="500">
 <h1 align="center">Welcome, I'm Abrar Shakil</h1>
 <h3 align="center">Full Stack Developer</h3>
 
-<p align="center"> <img src="https://komarev.com/ghpvc/?username=webdevshakil&label=Profile%20views&color=0e75b6&style=flat" alt="webdevshakil" /> </p>
+<p align="center"> <img src="https://komarev.com/ghpvc/?username=webdevshakil&label=Profile%20views&color=0e75b6&style=flat" alt="webdevshakil" height="50"/> </p>
 <br>
 
 <br>
