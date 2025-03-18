@@ -12,15 +12,6 @@
 
 - 📫 How to reach me **Developerabrarshakil@gmail.com**
 
-
-
-
-
-
-
-
-
-
 <!--tech stack icons-->
 <p align="center">
   <a href="https://skillicons.dev">
@@ -49,5 +40,4 @@
 <!--horizontal divider(gradiant)-->
 <img src="https://user-images.githubusercontent.com/73097560/115834477-dbab4500-a447-11eb-908a-139a6edaec5c.gif">
 <hr>
-<p>Credit: <a href="https://github.com/1010nishant">1010nishant</a></p>
-<p>Last Edited on: 29/4/2023</p> 
+
