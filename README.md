@@ -12,7 +12,7 @@
 
 - 📫 How to reach me **Developerabrarshakil@gmail.com**
 - <br>
-![snake gif](https://github.com/abrarshakilahmed/abrarshakilahmed/blob/output/github-contribution-grid-snake.gif)
+![snake gif](https://github.com/abrarshakilahmed/abrarshakilahmed/blob/output/github-snake.svg)
 
 <!--tech stack icons-->
 <p align="center">
