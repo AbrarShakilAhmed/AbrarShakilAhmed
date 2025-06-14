@@ -12,7 +12,6 @@
 - 💬 Ask me about **js**
 
 - 📫 How to reach me **Developerabrarshakil@gmail.com**  <br>  <br>
-![snake gif](https://github.com/abrarshakilahmed/abrarshakilahmed/blob/output/github-snake.svg)
 
 <!--tech stack icons-->
  <br> <br>
