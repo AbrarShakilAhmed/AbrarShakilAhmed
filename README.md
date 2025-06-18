@@ -1,38 +1,31 @@
 <meta name="google-site-verification" content="6f7kjEWEREJVKtUnMgX2eTtNi_b8H_HwOa0wqdLKZTM" />
-<img  width="100%" src="images/1687767682423.png" height="400px">
+<img  width="100%" src="images/ChatGPT Image Jun 18, 2025, 05_08_18 PM.png" height="400px">
 <h1 align="center">Welcome, I'm Abrar Shakil</h1>
 <h3 align="center">Full Stack Developer</h3>
 
 <p align="center"> <img src="https://komarev.com/ghpvc/?username=webdevshakil&label=Profile%20views&color=0e75b6&style=flat" alt="webdevshakil" height="50"/> </p>
 
-
 <h2>- 📱 I’m currently working with Web App</h2>
  <br>
 
-
-- 📫 How to reach me **Developerabrarshakil@gmail.com**  <br>  <br>
+- 📫 How to reach me **Developerabrarshakil@gmail.com** <br> <br>
 
 <!--tech stack icons-->
- <br> <br>
+
+<br> <br>
 
 <p align="center"> <a href="https://github.com/ryo-ma/github-profile-trophy"><img src="https://github-profile-trophy.vercel.app/?username=abrarshakilahmed" alt="abrarshakilahmed" /></a> </p>
 
 <p align="center"> <a href="https://twitter.com/" target="blank"><img src="https://img.shields.io/twitter/follow/?logo=twitter&style=for-the-badge" alt="" /></a> </p>
 
-
-
-
-
-
-
-
 <!-- Connect with me -->
 <!--h2 without bottom border-->
- <br> <br> <br>
+
+<br> <br> <br>
+
 <h2 align="center">Contact With Me :</h2>
 <br>
  <br>
-
 
 <!--icons and links-->
 <p align="center">
@@ -46,4 +39,3 @@
 <div align="center">
 </div>
 <br> <br>
-
